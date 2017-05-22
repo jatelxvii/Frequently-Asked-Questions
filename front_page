@@ -1,0 +1,60 @@
+<h1>Frequently Asked Questions</h1>
+<h3>How do I...</h3>
+<ul>
+<li><a href="#vpn-login">Log into a VPN?</a></li>
+<li><a href="#vpn-setup">Set up a VPN?</a></li>
+<li><a href="#tag-plugin">Install the tag printer&nbsp;plugin for Firefox?</a></li>
+<li><a href="#outlook-iphone">Connect Outlook Mail and Calendar to my iPhone?</a></li>
+<li><a href="#onboarding-forms">Access Onboarding/Offboarding forms?</a></li>
+<li><a href="#add-printer">Add/Remove a printer?</a></li>
+<li><a href="#check-name">Find my computer name?</a></li>
+<li><a href="#check-ip">Find my IP address?</a></li>
+<li><a href="#contact-it">Contact CRUS-IT?</a></li>
+</ul>
+<h2 id="vpn-setup">How do I set up the&nbsp;VPN?</h2>
+<ol>
+<li>Request VPN account from IT.</li>
+<li>Right-click on the Computer/Monitor icon at the lower-right of the screen.</li>
+<li>Click on <strong>Open Network and Sharing Center.</strong></li>
+<li>Click on <strong>Set up a new connection or network.</strong></li>
+<li>Click on <strong>Connect to a workplace.</strong></li>
+<li>Select <strong>Use my Internet Connection (VPN).</strong></li>
+<li>Enter in this information: <br /> <strong>Internet address:</strong> <em>bookstorevpn.ucdavis.edu</em> <br /> <strong>Destination name:</strong> <em>Bookstore VPN</em></li>
+<li>Click <strong>Next</strong>.</li>
+</ol>
+<h2 id="vpn-login">How do I log into the&nbsp;VPN?</h2>
+<h2 id="tag-plugin">How do I install the tag printer plugin for Firefox?</h2>
+<p>The tag printer requires a special plugin that can only be used with Firefox.</p>
+<ol>
+<li>Type&nbsp;<em><strong>about:config</strong></em> in the address bar. Press <strong>Enter</strong>.</li>
+<li>Click on <strong>I'll be careful, I promise!</strong></li>
+<li>Type&nbsp;<strong><em>xpinstall.signatures.required</em></strong> into the search field.</li>
+<li>Double-click on the&nbsp;xpinstall.signatures.required setting. You should see its value set to false.</li>
+<li>Go to&nbsp;<a href="http://ta2online.mbsbooks.com/GM2/installprinterclient.php">http://ta2online.mbsbooks.com/GM2/installprinterclient.php</a></li>
+<li>Click <strong>Install Now</strong>.</li>
+<li>Click <strong>Allow</strong>.</li>
+<li>Click <strong>Install</strong>.</li>
+<li>Click<strong> Restart Now.</strong></li>
+</ol>
+<h2 id="outlook-iphone">How do I connect Outlook Mail and Calendar to my iPhone?</h2>
+<p>When it comes to viewing shared calendars the owner of the calendar has to give you permission to view the calendar. To add outlook to your iPhone which should also sync your calendar please follow these steps:&nbsp;</p>
+<ol>
+<li>Open the <strong>Settings</strong> app on your device.</li>
+<li>Tap<strong> Mail, Contacts, Calendars</strong>.</li>
+<li>Tap <strong>Add Account...</strong></li>
+<li>Tap <strong>Exchange</strong>.&nbsp;</li>
+<li>Enter your full UC Davis email address and your Kerberos Passphrase.</li>
+<li>Tap<strong> Next.</strong></li>
+<li>For server use&nbsp;<em><strong>outlook.office365.com</strong>,&nbsp;</em>leave domain blank, for the username use&nbsp;your full UC Davis email address.&nbsp;</li>
+<li>Tap <strong>Next.&nbsp;</strong></li>
+<li>Select the items you want to sync then click <strong>Save</strong>.&nbsp;</li>
+<li>Once the configuration is successful, you can decide what items to sync with your device.</li>
+</ol>
+<h2 id="add-printer">How do I add/remove a printer?</h2>
+<h2 id="check-name">How do I check my computer name?</h2>
+<h2 id="check-ip">How do I check my IP address?</h2>
+<h2 id="contact-it">Help! How can I contact you guys?</h2>
+<p>Log onto our&nbsp;online ticket system:<strong>&nbsp;https://crusit.ucdavis.edu/</strong></p>
+<p>Email us: <strong>crusit@ucdavis.edu</strong></p>
+<p>For urgent issues, call us:<strong> 530-754-2165</strong> (<em>available Monday&ndash;Friday, 8 a.m.&ndash;5 p.m.</em>)</p>
+<p>&nbsp;</p>
